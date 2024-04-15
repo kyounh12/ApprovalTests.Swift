@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "ApprovalTests.Swift",
             dependencies: [],
-            path: "ApprovalTests.Swift",
+            path: "ApprovalTests_Swift",
             exclude: ["Info.plist"]
         ),
     ]
